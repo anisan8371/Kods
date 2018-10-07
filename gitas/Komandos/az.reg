@@ -1,0 +1,6 @@
+REGEDIT4 
+
+[HKEY_CURRENT_USER\Software\Wine\Direct3D] 
+"DirectDrawRenderer"="opengl" 
+"UseGLSL"="enabled" 
+"MaxVersionGL"=dword:00040005 

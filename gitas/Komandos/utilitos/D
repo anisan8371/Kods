@@ -1,0 +1,2 @@
+sudo mkdir /media/DD &&
+sudo mount -o ro /dev/sda1 /media/DD
